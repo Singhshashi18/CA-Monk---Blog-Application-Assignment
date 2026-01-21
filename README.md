@@ -36,7 +36,7 @@ A modern, responsive blog application built with React, TypeScript, TanStack Que
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rishu685/blog_assignment.git
+   https://github.com/Singhshashi18/CA-Monk---Blog-Application-Assignment.git
    cd blog_assignment
    ```
 
